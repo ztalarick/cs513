@@ -1,0 +1,30 @@
+Zachary Talarick
+I pledge my honor that I have abided by the Stevens Honor System. ztalarick
+
+1. It is a valid distance function because its always positive, distance from A to B is the 		Same as B to A, and the Distance from A to C is greater than the disctance from A to B to C
+
+	(0, 0, 0) to (0, 1, 0)
+		(0 - 0)^2 + (0 - 1)^2 + (0 - 0)^2 = 1
+	(0, 1, 0) to (0, 1, 1)
+		(0 - 0)^2 + (1 - 1)^2 + (0 - 1)^2 = 1
+	(0, 1, 1) to (1, 1, 1)
+		(0 - 1)^2 + (1 - 1)^2 + (1 - 1)^2 = 1
+2. In q2.r
+
+3./4. In COVID19_A.xls
+
+5. In q5.r
+
+6. In q6.r
+
+7. In q7.r
+
+8.
+	a. US: 331 * 381.24 = 126,190.44
+	   Italy: 60 * 1463.97 = 87,838.2
+	   Spain: 47 * 1590.24 = 74,741.28
+	b. p(infected AND Lives in US)/p(Lives in US) = .0004
+	c. US cases / Total Cases
+	   126,190.44 / 288,769.48 = 0.437
+
+9. In q9.xls
